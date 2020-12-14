@@ -12,4 +12,3 @@ We use git because it allows us to use Git as the control.  It allows us to trac
  ## What is the difference between Git and GitHub? 
 
  Git is a version control system that allows you to keep track of any changes made to your source code. Github is a cloud-based host that allows you to manage Git repositories. 
-

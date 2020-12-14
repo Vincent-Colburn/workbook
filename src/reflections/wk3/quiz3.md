@@ -14,7 +14,7 @@ let staff = {
   }
 let property = 'name'
 ```
-<!-- enter you answer in the space below -->
+staff[name]
 ```
 
 ```

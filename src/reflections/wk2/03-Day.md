@@ -17,7 +17,7 @@ The elements function. This is a very valuable tool because you can write what y
 
 ## 3. Outside of writing everything to the console what is a better way to debug your code? 
 
-Read it to a rubber duck, usually while you are explaining the code to your duck you will realize the answer. Y
+Read it to a rubber duck, usually while you are explaining the code to your duck you will realize the answer. You can also use debugger to figure out which portion of something is not working. 
 
 
 

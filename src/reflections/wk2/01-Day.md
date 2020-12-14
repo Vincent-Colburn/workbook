@@ -12,7 +12,7 @@ Global variables are typically defined outside of the block
 
 ## What is Hoisting ?
 
-Hoisting is where the variables and functions that are declared are moved to the top of the script before it runs. 
+Hoisting is where the variables and functions that are declared are moved to the top of the script before it runs. This means that a variable can be used before it has been declared. 
 
 
 ## In what cases might you use let vs const vs var ? 

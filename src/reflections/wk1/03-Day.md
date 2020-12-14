@@ -9,7 +9,11 @@ This might seem silly but I think that it is the one about not changing the font
 
  ##   2. Compile a couple resources that you think might be helpful when trying to review examples of good design ideas.
 
- ????
+ www.figma.com 
+
+ https://brandcraft.com/services/website-design/?gclid=CjwKCAiAt9z-BRBCEiwA_bWv-KN7IrAq2dC3s8MXsjrqEt4koJvv3eM5XMHvZfAJk-1HdiJXLNb61BoC5gYQAvD_BwE
+
+ https://webflow.com/blog/web-design-inspiration
 
   ##  3. How do you think good design influences people when visiting a website and what sorts of things could you convey through design alone?
 
